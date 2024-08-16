@@ -1,0 +1,71 @@
+E:\projects\dotnet and react\DotnetProject\bin\Debug\net8.0\appsettings.Development.json
+E:\projects\dotnet and react\DotnetProject\bin\Debug\net8.0\appsettings.json
+E:\projects\dotnet and react\DotnetProject\bin\Debug\net8.0\DotnetProject.exe
+E:\projects\dotnet and react\DotnetProject\bin\Debug\net8.0\DotnetProject.deps.json
+E:\projects\dotnet and react\DotnetProject\bin\Debug\net8.0\DotnetProject.runtimeconfig.json
+E:\projects\dotnet and react\DotnetProject\bin\Debug\net8.0\DotnetProject.dll
+E:\projects\dotnet and react\DotnetProject\bin\Debug\net8.0\DotnetProject.pdb
+E:\projects\dotnet and react\DotnetProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\projects\dotnet and react\DotnetProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\projects\dotnet and react\DotnetProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\projects\dotnet and react\DotnetProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\projects\dotnet and react\DotnetProject\obj\Debug\net8.0\DotnetProject.csproj.AssemblyReference.cache
+E:\projects\dotnet and react\DotnetProject\obj\Debug\net8.0\DotnetProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\dotnet and react\DotnetProject\obj\Debug\net8.0\DotnetProject.AssemblyInfoInputs.cache
+E:\projects\dotnet and react\DotnetProject\obj\Debug\net8.0\DotnetProject.AssemblyInfo.cs
+E:\projects\dotnet and react\DotnetProject\obj\Debug\net8.0\DotnetProject.csproj.CoreCompileInputs.cache
+E:\projects\dotnet and react\DotnetProject\obj\Debug\net8.0\DotnetProject.MvcApplicationPartsAssemblyInfo.cs
+E:\projects\dotnet and react\DotnetProject\obj\Debug\net8.0\DotnetProject.MvcApplicationPartsAssemblyInfo.cache
+E:\projects\dotnet and react\DotnetProject\obj\Debug\net8.0\staticwebassets.build.json
+E:\projects\dotnet and react\DotnetProject\obj\Debug\net8.0\staticwebassets.development.json
+E:\projects\dotnet and react\DotnetProject\obj\Debug\net8.0\staticwebassets\msbuild.DotnetProject.Microsoft.AspNetCore.StaticWebAssets.props
+E:\projects\dotnet and react\DotnetProject\obj\Debug\net8.0\staticwebassets\msbuild.build.DotnetProject.props
+E:\projects\dotnet and react\DotnetProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DotnetProject.props
+E:\projects\dotnet and react\DotnetProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DotnetProject.props
+E:\projects\dotnet and react\DotnetProject\obj\Debug\net8.0\staticwebassets.pack.json
+E:\projects\dotnet and react\DotnetProject\obj\Debug\net8.0\scopedcss\bundle\DotnetProject.styles.css
+E:\projects\dotnet and react\DotnetProject\obj\Debug\net8.0\DotnetPr.447DCC84.Up2Date
+E:\projects\dotnet and react\DotnetProject\obj\Debug\net8.0\DotnetProject.dll
+E:\projects\dotnet and react\DotnetProject\obj\Debug\net8.0\refint\DotnetProject.dll
+E:\projects\dotnet and react\DotnetProject\obj\Debug\net8.0\DotnetProject.pdb
+E:\projects\dotnet and react\DotnetProject\obj\Debug\net8.0\DotnetProject.genruntimeconfig.cache
+E:\projects\dotnet and react\DotnetProject\obj\Debug\net8.0\ref\DotnetProject.dll
+E:\projects\dotnet and react\DotnetProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\projects\dotnet and react\DotnetProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\projects\dotnet and react\DotnetProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\projects\Project Nachama Nankenski For Clalit\server\obj\Debug\net8.0\DotnetProject.csproj.AssemblyReference.cache
+E:\projects\Project Nachama Nankenski For Clalit\server\obj\Debug\net8.0\DotnetProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\Project Nachama Nankenski For Clalit\server\obj\Debug\net8.0\DotnetProject.AssemblyInfoInputs.cache
+E:\projects\Project Nachama Nankenski For Clalit\server\obj\Debug\net8.0\DotnetProject.AssemblyInfo.cs
+E:\projects\Project Nachama Nankenski For Clalit\server\obj\Debug\net8.0\DotnetProject.csproj.CoreCompileInputs.cache
+E:\projects\Project Nachama Nankenski For Clalit\server\obj\Debug\net8.0\DotnetProject.MvcApplicationPartsAssemblyInfo.cs
+E:\projects\Project Nachama Nankenski For Clalit\server\obj\Debug\net8.0\DotnetProject.MvcApplicationPartsAssemblyInfo.cache
+E:\projects\Project Nachama Nankenski For Clalit\server\obj\Debug\net8.0\DotnetProject.dll
+E:\projects\Project Nachama Nankenski For Clalit\server\obj\Debug\net8.0\refint\DotnetProject.dll
+E:\projects\Project Nachama Nankenski For Clalit\server\obj\Debug\net8.0\DotnetProject.pdb
+E:\projects\Project Nachama Nankenski For Clalit\server\bin\Debug\net8.0\appsettings.Development.json
+E:\projects\Project Nachama Nankenski For Clalit\server\bin\Debug\net8.0\appsettings.json
+E:\projects\Project Nachama Nankenski For Clalit\server\bin\Debug\net8.0\DotnetProject.exe
+E:\projects\Project Nachama Nankenski For Clalit\server\bin\Debug\net8.0\DotnetProject.deps.json
+E:\projects\Project Nachama Nankenski For Clalit\server\bin\Debug\net8.0\DotnetProject.runtimeconfig.json
+E:\projects\Project Nachama Nankenski For Clalit\server\bin\Debug\net8.0\DotnetProject.dll
+E:\projects\Project Nachama Nankenski For Clalit\server\bin\Debug\net8.0\DotnetProject.pdb
+E:\projects\Project Nachama Nankenski For Clalit\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\projects\Project Nachama Nankenski For Clalit\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\projects\Project Nachama Nankenski For Clalit\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\projects\Project Nachama Nankenski For Clalit\server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\projects\Project Nachama Nankenski For Clalit\server\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\projects\Project Nachama Nankenski For Clalit\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\projects\Project Nachama Nankenski For Clalit\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\projects\Project Nachama Nankenski For Clalit\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\projects\Project Nachama Nankenski For Clalit\server\obj\Debug\net8.0\staticwebassets.build.json
+E:\projects\Project Nachama Nankenski For Clalit\server\obj\Debug\net8.0\staticwebassets.development.json
+E:\projects\Project Nachama Nankenski For Clalit\server\obj\Debug\net8.0\staticwebassets\msbuild.DotnetProject.Microsoft.AspNetCore.StaticWebAssets.props
+E:\projects\Project Nachama Nankenski For Clalit\server\obj\Debug\net8.0\staticwebassets\msbuild.build.DotnetProject.props
+E:\projects\Project Nachama Nankenski For Clalit\server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DotnetProject.props
+E:\projects\Project Nachama Nankenski For Clalit\server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DotnetProject.props
+E:\projects\Project Nachama Nankenski For Clalit\server\obj\Debug\net8.0\staticwebassets.pack.json
+E:\projects\Project Nachama Nankenski For Clalit\server\obj\Debug\net8.0\scopedcss\bundle\DotnetProject.styles.css
+E:\projects\Project Nachama Nankenski For Clalit\server\obj\Debug\net8.0\DotnetPr.447DCC84.Up2Date
+E:\projects\Project Nachama Nankenski For Clalit\server\obj\Debug\net8.0\DotnetProject.genruntimeconfig.cache
+E:\projects\Project Nachama Nankenski For Clalit\server\obj\Debug\net8.0\ref\DotnetProject.dll
